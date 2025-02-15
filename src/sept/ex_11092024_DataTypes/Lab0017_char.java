@@ -14,5 +14,8 @@ public class Lab0017_char {
 
         char c3 = '\u1F6A' ;    // Unicode character
         System.out.println(c3);  //  Ὢ will print :)
+
+        char c4 = 'B';
+        System.out.println(c4);  //  Ὢ will print :)
     }
 }

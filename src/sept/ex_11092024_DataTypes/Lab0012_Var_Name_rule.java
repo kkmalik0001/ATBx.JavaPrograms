@@ -1,7 +1,7 @@
 /*
 *
 * Variable name rule
-*
+*  data_type variable_name= variable_value;
 * */
 
 package sept.ex_11092024_DataTypes;

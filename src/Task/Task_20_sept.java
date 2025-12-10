@@ -15,4 +15,13 @@
 package Task;
 
 public class Task_20_sept {
+    public static void main(String[] args) {
+
+//        int score =85;
+//        System.out.println();
+//        System.out.println("%d * %d = %d", num,2,num*2);
+//        System.out.println();
+//        System.out.println("%d * %d = %d", num,3,num*3);
+//        System.out.println();
+    }
 }

@@ -1,4 +1,4 @@
-package sept.ex_23092024_Condition;
+package sept.ex_23092024_switch_Condition;
 
 public class lab086 {
 

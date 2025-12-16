@@ -2,7 +2,7 @@
 *  Switch statement
 * */
 
-package sept.ex_23092024_Condition;
+package sept.ex_23092024_switch_Condition;
 
 public class lab075 {
     public static void main(String[] args) {
